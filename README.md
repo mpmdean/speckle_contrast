@@ -1,7 +1,7 @@
 # speckle_contrast
 
-Calculations of the speckle constrast factor in Bragg geometry as used inasdfasdf
-
+Calculations of the speckle constrast factor in Bragg geometry as used 
+X. M. Chen et al., Phys. Rev. Lett. 117, 167001 (2016)
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.167001
 
 Taken from 
