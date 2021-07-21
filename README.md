@@ -13,8 +13,8 @@ Run on your computer by installing [docker](https://www.docker.com/) and pip and
 
 ~~~
 pip install jupyter-repo2docker
-docker pull mpmdean/main
-jupyter-repo2docker --editable --image-name jupyter/scipy-notebook .
+docker pull bnlxray/main
+jupyter-repo2docker --editable --image-name bnlxray/main .
 ~~~
 
 The URL should run in any internet browser.  
